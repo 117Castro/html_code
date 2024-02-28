@@ -16,3 +16,8 @@ quiero hacer otra prueba
 creo que entiendo, si no le doy en guarda desde visual code no lo sube al repositorio, 
 
 bien prueba 1 cerrar vs sin subir...
+
+prueba exitosa, 
+
+prueba 2 subir desde vs code, datto: el git log ocupo el q, vere si ahora lo necesita
+
