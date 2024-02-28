@@ -22,4 +22,4 @@ prueba exitosa,
 prueba 2 subir desde vs code, datto: el git log ocupo el q, vere si ahora lo necesita
 
 
-commit sin el git push 
+commit sin el git push .
