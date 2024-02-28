@@ -5,3 +5,6 @@ crear con touch nuevo txt
 git status
 git add
 git ccommit
+
+
+corrigiendo error
