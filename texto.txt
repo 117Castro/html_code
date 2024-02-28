@@ -1,0 +1,7 @@
+esta es una prueba de comandos sensillos 
+
+clonacion
+crear con touch nuevo txt
+git status
+git add
+git ccommit
