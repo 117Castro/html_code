@@ -23,3 +23,5 @@ prueba 2 subir desde vs code, datto: el git log ocupo el q, vere si ahora lo nec
 
 
 commit sin el git push .
+
+prueba exitosa comprension simple
