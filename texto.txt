@@ -8,3 +8,11 @@ git ccommit
 
 
 corrigiendo error
+
+todo se guardo sin usar el git puch
+quiero hacer otra prueba 
+
+
+creo que entiendo, si no le doy en guarda desde visual code no lo sube al repositorio, 
+
+bien prueba 1 cerrar vs sin subir...
