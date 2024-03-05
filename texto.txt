@@ -28,3 +28,5 @@ prueba exitosa comprension simple
 
 
 retro alimentacion
+
+retro alimentacion de commit desde VS code
