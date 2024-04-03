@@ -30,3 +30,6 @@ prueba exitosa comprension simple
 retro alimentacion
 
 retro alimentacion de commit desde VS code
+
+solo actualizacion, voy a meter es este repo un directorio nuevo 02-04-2024 
+es directorio de los primeros de prueba 
